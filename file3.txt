@@ -1,3 +1,7 @@
+git commands
+
+conflicts testing
+git commands basic
 git commands basic
 ls -ltr
 cd filename
